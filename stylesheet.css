@@ -1,0 +1,78 @@
+body {
+  background-image: url("background.jpg")
+}
+h1 {
+    color: #B76E79;
+    font-family: 'Lobster', cursive;
+   
+}
+.center {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+li a:hover {
+    background-color: SILVER;
+    font-family: 'Comfortaa', cursive;
+​
+
+
+}
+#demo {
+    color:black;
+    font-family: 'Brush Script MT';
+    font-size: 30px;
+}
+button {
+    background-color: silver;
+    border: none;
+    color: white;
+    padding: 10px 22px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+#list {
+	background-color: white;
+    color:black;
+    font-size: 16px;
+	list-style-type:square;
+    }
+  #mySlides {display:none}
+  p {
+  	background-color: SILVER;
+  	font-size: 20px;
+  	font-family: 'Comfortaa'
+  }
+ .paragraphs{
+    font-size: 24px;
+    font-family: 'helvetica';
+    font-weight: bold;
+    border-style: dotted;
+    border-color: #660029;
+  
+  }
+

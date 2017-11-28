@@ -1,0 +1,113 @@
+h1 {
+
+	text-align: center;
+	font-weight: italic;
+	font-family: 'Lobster', cursive;
+	color: #D4AF37;
+	text-decoration: underline;
+
+}
+	
+
+body {
+	background-image: url("background.png")
+}
+
+p {
+	color: #B76E79;
+	font-size: 40px;
+	font-family: 'Lobster', cursive;
+	font-weight: bold;
+	text-decoration: underline;
+	text-decoration-color: black;
+	border: thick;
+	
+}
+
+
+
+	
+	img {
+		border: 1px solid #A26C44;
+		border-color: #A26C44;
+		border-radius: 100px;
+		padding: 5px;
+		width: 150px;
+		height: 150px;
+		object-fit: cover;
+	}
+
+	h3 {
+		font-family: 'Lobster', cursive;
+		font-weight: italic;
+		font-size: 16px;
+		color: black;
+		text-align: center;
+		padding: 35;
+	}
+
+		
+	
+
+
+
+li {
+	font-size: 24px;
+	font-family: helvetica;
+}
+	
+	ul > li
+{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+   
+}
+
+ul > li > span
+{
+    color: black;
+}
+	
+
+
+h2 {
+	<img src= style="width:128px;height128px;">
+}
+
+.tooltip {
+    position: relative;
+    display: inline-block;
+    
+}
+
+.tooltip .tooltiptext {
+    visibility: hidden;
+    width: 120px;
+    background-color: #008080;
+    color: #fff;
+    text-align: center;
+    padding: 8px 0;
+    border-radius: 12px;
+    font-family: 'Lobster', cursive;
+ 
+    position: absolute;
+    z-index: 1;
+}
+
+.tooltip:hover .tooltiptext {
+    visibility: visible;
+}
+
+
+
+.footer {
+    
+    
+    padding: 30px;
+}
+
+
+	
+	
+
